@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_adamgraham_portfolio=self.webpackChunk_adamgraham_portfolio||[]).push([[120],{2874:function(a,t,e){e.r(t);var r=e(6540),l=e(7861),o=e(1053);t.default=a=>{let{data:t,location:e}=a;const{slides:s}=t.json;return r.createElement(l.YW,{category:"art",slides:s,location:e,metadata:{url:`${o.wW}/art`,title:"Adam Graham • Art"}},r.createElement(l.Z2,{slides:s}))}}}]);
+//# sourceMappingURL=component---src-pages-art-js-33f39da6acf9ef6ab964.js.map

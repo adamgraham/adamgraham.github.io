@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_adamgraham_portfolio=self.webpackChunk_adamgraham_portfolio||[]).push([[830],{4492:function(a,e,t){t.r(e);var s=t(6540),l=t(7861),o=t(1053);e.default=a=>{let{data:e,location:t}=a;const{slides:r}=e.json;return s.createElement(l.YW,{category:"games",slides:r,location:t,metadata:{url:`${o.wW}/games`,title:"Adam Graham • Games"}},s.createElement(l.Z2,{slides:r}))}}}]);
+//# sourceMappingURL=component---src-pages-games-js-bc4f3c06d560fe25808d.js.map

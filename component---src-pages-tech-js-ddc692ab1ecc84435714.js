@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_adamgraham_portfolio=self.webpackChunk_adamgraham_portfolio||[]).push([[935],{8019:function(a,e,t){t.r(e);var l=t(6540),o=t(7861),r=t(1053);e.default=a=>{let{data:e,location:t}=a;const{slides:c}=e.json;return l.createElement(o.YW,{category:"tech",slides:c,location:t,metadata:{url:`${r.wW}/tech`,title:"Adam Graham • Tech"}},l.createElement(o.Z2,{slides:c}))}}}]);
+//# sourceMappingURL=component---src-pages-tech-js-ddc692ab1ecc84435714.js.map
